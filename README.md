@@ -1,3 +1,5 @@
-## 🌐 Ver página
+Portafolio Web
+Este es mi portafolio personal...
 
-[Ir al portafolio](https://xCrisda.github.io/Portafolio)
+
+https://xCrisda.github.io/Portafolio
